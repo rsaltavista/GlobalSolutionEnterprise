@@ -1,4 +1,6 @@
 # GlobalSolutionEnterprise
+![Imagem do WhatsApp de 2023-06-06 à(s) 21 10 52](https://github.com/rsaltavista/GlobalSolutionEnterprise/assets/92685333/1f93a2d1-0914-4d6a-8ba5-37488662cd98)
+
 Entrega da materia de enterprise.
 ### Link do vídeo no youtube: https://youtu.be/jJWR5z9EMys
 # DoarHero
